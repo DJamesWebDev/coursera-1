@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+h1 {
+	font-family:  open sans;
+	text-align:  right;
+}
+
+ul {
+	font-family:  open sans;
+}
+
+header {
+	border: 1px solid red;
+}
